@@ -1,0 +1,10 @@
+README.md
+setup.py
+OxDate/OxDate.py
+OxDate/__init__.py
+OxDate.egg-info/PKG-INFO
+OxDate.egg-info/SOURCES.txt
+OxDate.egg-info/dependency_links.txt
+OxDate.egg-info/not-zip-safe
+OxDate.egg-info/requires.txt
+OxDate.egg-info/top_level.txt

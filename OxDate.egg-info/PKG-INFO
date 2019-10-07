@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: OxDate
+Version: 0.1
+Summary: Oxford term dates tools
+Home-page: http://github.com/TianyiShi2001/OxDate
+Author: Tianyi Shi
+Author-email: ShiTianyi2001@outlook.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.1
